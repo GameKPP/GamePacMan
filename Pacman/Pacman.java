@@ -1,4 +1,3 @@
-//Darragh McLernon
 package Pacman;
 import java.awt.*;
 
