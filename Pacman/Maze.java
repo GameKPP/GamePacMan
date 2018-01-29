@@ -11,11 +11,6 @@ import java.net.URL;
 import java.net.MalformedURLException;
 import java.util.Random;
 
-/**
- * Represents the maze that appears on screen. Creates the maze data using
- * a 2D array of Cell objects, and renders the maze on screen.
- *
- */
 public class Maze extends JPanel
 {
 
