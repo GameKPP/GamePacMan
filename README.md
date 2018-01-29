@@ -1,12 +1,12 @@
 
 <center><H2>    GAME PACMAN KẾT THÚC MÔN HỌC LẬP TRÌNH MÔ PHỎNG GAME</H2></center>
 <hr/></br>
-<p>Tài liệu này được xây dựng bởi các thành viên:</br>
+<strong><p>Tài liệu này được xây dựng bởi các thành viên:</br></strong>
                       -Nguyễn Đăng Khoa</br>
                       -Bùi Nguyễn Hồng Phúc</br>
  	                    -Trịnh Đình Phúc</p></br>
 <hr/>
-<p><H4>Tóm tắt</H4><br/>
+<p><H2>Tóm tắt</H2><br/>
 <li> MỤC TIÊU  </li>
 <li> MỤC TIÊU PHÁT TRIỂN TƯƠNG LAI</li>
  </p><br/>
